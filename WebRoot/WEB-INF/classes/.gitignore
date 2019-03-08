@@ -1,0 +1,11 @@
+/META-INF/
+/applicationContext-server.xml
+/com/
+/globalLanguage_en_US.properties
+/globalLanguage_zh_CN.properties
+/jdbc.properties
+/log4j.properties
+/org/
+/shell/
+/struts.xml
+/system_config.properties
